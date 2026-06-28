@@ -20,6 +20,8 @@ Here's the fun part: an AI-powered workflow does the heavy lifting. It scans the
 
 It means more Shorts, fewer errors, and a human still making the final call.
 
+**What makes it agentic:** the AI doesn't follow a fixed script. It decides what to fact-check, researches on its own, and keeps digging until it can confirm or drop each claim — the same loop a careful human researcher would run, just automated.
+
 ---
 
 🎬 **See it in action:** [@ai_with_prayash_english](https://www.youtube.com/@ai_with_prayash_english)
